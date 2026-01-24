@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra1614&label=Profile%20views&color=0e75b6&style=flat" alt="rudra1614" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudra1614" alt="rudra1614" /></a> </p>
 
 - 🔭 I’m currently working on **Logcentry Ai based SIEM Tool**
 
