@@ -4,20 +4,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra1614&label=Profile%20views&color=0e75b6&style=flat" alt="rudra1614" /> </p>
 
 
-- 🔭 I’m currently working on **Logcentry Ai based SIEM Tool**
+- 🔭 I’m currently working on **Logcentry AI based Website SIEM Tool**
 
-- 🌱 I’m currently learning **Cybersecurity Frameworks, Ai Models**
+- 🌱 I’m currently learning **Cybersecurity Frameworks, AI Models**
 
 - 💬 Ask me about **Burpsuite, CTF's, Ethical Hacking**
 
 - 📄 Know about my experiences [https://github.com/rudra1614/Resume/blob/main/Resume.pdf](https://github.com/rudra1614/Resume/blob/main/Resume.pdf)
 
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudra1614&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra1614&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra1614&show_icons=true&locale=en&layout=compact" alt="" /></p>
+
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra1614&show_icons=true&locale=en" alt="" /></p>
+
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra1614&" alt="" /></p>
 </div>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -48,7 +52,6 @@
 </div>
 
 ###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/rudra-naik/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
